@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "ClussCluster"]
+	path = ClussCluster
+	url = https://github.com/cran/ClussCluster
+[submodule "DiPhiSeq"]
+	path = DiPhiSeq
+	url = https://github.com/cran/DiPhiSeq
+[submodule "SparseDC"]
+	path = SparseDC
+	url = https://github.com/cran/SparseDC
+[submodule "SparseMDC"]
+	path = SparseMDC
+	url = https://github.com/cran/SparseMDC
+[submodule "ccRemover"]
+	path = ccRemover
+	url = https://github.com/cran/ccRemover
+[submodule "scSorter"]
+	path = scSorter
+	url = https://github.com/cran/scSorter
