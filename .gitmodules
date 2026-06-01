@@ -17,6 +17,3 @@
 [submodule "ccRemover"]
 	path = ccRemover
 	url = https://github.com/cran/ccRemover
-[submodule "scSorter"]
-	path = scSorter
-	url = https://github.com/cran/scSorter
